@@ -11,6 +11,8 @@ All documentation can be found on our [documentation hub](https://www.jaka.com/d
 
 ## Installation
 
+Download your system specific zip [here](https://github.com/JAKARobotics/sdk-cpp/releases/tag/sdk).
+
 #### Visual Studio
 
 Extract the zip folder contents directly into your main project folder.
