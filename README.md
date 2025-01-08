@@ -72,7 +72,7 @@ Our Software Development Kit is still in its early stages and we are open to any
 
 #### I want "x" new feature.
 
-Please let us know in the [wishlist](https://github.com/JAKARobotics/jakasdk-cpp/issues/1) issue thread.
+Please let us know in the [wishlist](https://github.com/JAKARobotics/jakasdk-cpp/discussions/2) discussion.
 
 
 ....
